@@ -6,6 +6,3 @@ chapter:
   url: https://www.chicagodsa.org/
 google_analytics:
 remote_theme: ChicagoDSA/Haymarket@v1.0.1
-plugins:
-  - jekyll-seo-tag
-  
