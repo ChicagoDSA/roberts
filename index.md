@@ -4,7 +4,7 @@ title: Robert's Rules
 description: Bob
 ---
 
-DSA working groups, committees, and legislative bodies around the United States use [Robert's Rules of Order](https://en.wikipedia.org/wiki/Robert's_Rules_of_Order) to conduct their discussions, debates, and votes. 
+DSA working groups, committees, and legislative bodies across the United States use [Robert's Rules of Order](https://en.wikipedia.org/wiki/Robert's_Rules_of_Order) to conduct their discussions, debates, and votes. 
 
 Here are the most important actions you'll take, and how to introduce them.
 
