@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Robert's Rules
-description: Bob
 ---
 
 DSA working groups, committees, and legislative bodies across the United States use [Robert's Rules of Order](https://en.wikipedia.org/wiki/Robert's_Rules_of_Order) to conduct their discussions, debates, and votes. 
