@@ -10,6 +10,17 @@ chapter:
 google_analytics:
 remote_theme: ChicagoDSA/haymarket@v1.1.9
 
+# Leave empty to disable
 banner:
   text:
   link:
+
+defaults:
+  -
+    scope:
+      path: "" # All files
+    values:
+      image: "assets/images/og-image.png"
+
+# Create collections here
+collections:
