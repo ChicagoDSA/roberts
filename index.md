@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Robert's Rules
 description: Learn how to participate in DSA meetings.
 ---
