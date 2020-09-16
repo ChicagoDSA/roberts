@@ -1,7 +1,4 @@
-title: Robert's Rules
-description: A quick overview of Robert's Rules of Order.
 chapter:
-  name: Chicago DSA
   url: https://www.chicagodsa.org/
   facebook: https://www.facebook.com/ChicagoDemSocialists/
   instagram: https://www.instagram.com/chicagodsa/
@@ -11,28 +8,39 @@ chapter:
   header-logo-png-fallback: "images/CDSA-logo-color.png" # 360px square recommended
   background-logo-svg: "images/CDSA-logo-reverse.svg"
   background-logo-png-fallback: "images/CDSA-logo-reverse.png" # 1440px square recommended
-  # Alt text for screen readers
-  logo-description: A CTA train and the Sears Tower are in front of a rose.
-custom-join: # Add custom join URL here
 google_analytics: # Tracking ID
 teamup: # Calendar API key
 permalink: pretty
-remote_theme: ChicagoDSA/haymarket@v1.5.7
+remote_theme: ChicagoDSA/haymarket@v1.6.3
 
-# Leave empty to disable
-banner:
-  text:
-  link:
-
+# Set default front matter for Markdown files
 defaults:
   -
     scope:
       path: "" # All files
     values:
       layout: default
-      image: "assets/images/og-image.png"
+      image: assets/images/og-image.png
+      lang: en
 
-# Add collections here
+  # Set URLs and language code for collections
+  # English   
+  -
+    scope:
+      path: _homepage/en/index.md
+    values:
+      permalink: / # Set as index
+  # Spanish
+  -
+    scope:
+      path: _homepage/es/index.md
+    values:
+      permalink: /es/
+      lang: es
+
+# Manage lists of content with collections
 # https://jekyllrb.com/docs/collections/
 collections:
-  
+  # Homepage translations
+  homepage:
+    output: true

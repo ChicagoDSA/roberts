@@ -1,4 +1,5 @@
 ---
+lang-ref: homepage
 title: Basics
 headline: Robert's Rules
 subhead: Learn how to participate in DSA meetings.

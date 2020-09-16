@@ -1,0 +1,8 @@
+join:
+  text:
+    en: Join DSA
+    es: Únase a DSA
+  link: # Override DSA national link
+    en:
+    es:
+        
