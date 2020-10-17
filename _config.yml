@@ -11,7 +11,7 @@ chapter:
 google_analytics: # Tracking ID
 teamup: # Calendar API key
 permalink: pretty
-remote_theme: ChicagoDSA/haymarket@v2.0.2
+remote_theme: ChicagoDSA/haymarket@v2.0.3
 
 # Set default front matter for Markdown files
 defaults:
