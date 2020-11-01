@@ -9,7 +9,7 @@ Los grupos de trabajo de DSA, comités y cuerpos legislativos en todo Estados Un
 
 Estas son las acciones más importantes que tomará y cómo presentarlas.
 
-### 1. Para buscar el reconocimiento del presidente
+### 1. Para buscar el reconocimiento de lx presidentx
 > *Levanta tu tarjeta de votación, mano Zoom u otra señal.*
 
 ### 2. Hacer un movimiento
@@ -36,7 +36,7 @@ Estas son las acciones más importantes que tomará y cómo presentarlas.
 ### 9. Preocupaciones sobre comodidad o conducta, *excluido* el debate
 > ¡Cuestión de Privilegio!
 
-### 10. Apelar al presidente
+### 10. Apelar a lx presidentx
 > Apelo de la decisión del presidente.
 
 ### 11. Suspender las reglas
