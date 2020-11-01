@@ -37,7 +37,7 @@ Estas son las acciones más importantes que tomará y cómo presentarlas.
 > ¡Cuestión de Privilegio!
 
 ### 10. Apelar a lx presidentx
-> Apelo de la decisión del presidente.
+> Apelo de la decisión de lx presidentx.
 
 ### 11. Suspender las reglas
 > Me muevo a suspender las reglas a...
