@@ -45,7 +45,7 @@ Estas son las acciones más importantes que tomará y cómo presentarlas.
 ## 12. Posponer
 > Propongo posponer la moción hasta...
 
-## 13. Para volver a la agenda si no está programado
+## 13. Para volver a la agenda si no es a tiempo
 > Llamo para las órdenes del día...
 
 ## 14. Aplazar
