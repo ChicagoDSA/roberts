@@ -36,7 +36,7 @@ Estas son las acciones más importantes que tomará y cómo presentarlas.
 ### 9. Preocupaciones sobre comodidad o conducta, *excluido* el debate
 > ¡Cuestión de Privilegio!
 
-### 10. Apelar a la presidenta
+### 10. Apelar al presidente
 > Apelo de la decisión del presidente.
 
 ### 11. Suspender las reglas
