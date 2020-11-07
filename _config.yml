@@ -11,12 +11,11 @@ chapter:
 google_analytics: # Tracking ID
 teamup: # Calendar API key
 permalink: pretty
-remote_theme: ChicagoDSA/haymarket@v2.2.6 # Append @vX.X.X to specify a version number
+remote_theme: ChicagoDSA/haymarket@v2.2.7 # Append @vX.X.X to specify a version number
 
 # Set default front matter for Markdown files
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # All files
     values:
       lang: en
@@ -25,14 +24,12 @@ defaults:
 
   # Set URLs and language code for collections
   # English   
-  -
-    scope:
+  - scope:
       path: _homepage/en/index.md
     values:
       permalink: / # Set as index
   # Spanish
-  -
-    scope:
+  - scope:
       path: _homepage/es/index.md
     values:
       permalink: /es/
