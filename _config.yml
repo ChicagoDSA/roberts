@@ -11,7 +11,7 @@ chapter:
 google_analytics: # Tracking ID
 teamup: # Calendar API key
 permalink: pretty
-remote_theme: ChicagoDSA/haymarket@v2.3.1 # Append @vX.X.X to specify a version number
+remote_theme: ChicagoDSA/haymarket@v2.3.2 # Append @vX.X.X to specify a version number
 
 # Set default front matter for Markdown files
 defaults:
@@ -21,6 +21,12 @@ defaults:
       lang: en
       layout: default
       image: assets/images/og-image.png
+
+  # Set redirects relative to base
+  - scope:
+      path: _redirect-to
+    values:
+      permalink: /:path
 
   # Set URLs and language code for collections
   # English   
@@ -38,6 +44,9 @@ defaults:
 # Manage lists of content with collections
 # https://jekyllrb.com/docs/collections/
 collections:
+  # Export redirects
+  redirect-to:
+    output: true
   # Homepage translations
   homepage:
     output: true
