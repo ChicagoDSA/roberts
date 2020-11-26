@@ -11,7 +11,7 @@ chapter:
 google_analytics: # Tracking ID
 teamup: # Calendar API key
 permalink: pretty
-remote_theme: ChicagoDSA/haymarket@v2.3.2 # Append @vX.X.X to specify a version number
+remote_theme: ChicagoDSA/haymarket@v2.3.3 # Append @vX.X.X to specify a version number
 plugins:
   - jekyll-redirect-from
 
